@@ -28,8 +28,7 @@
    
    
 #### According to this image, I took 2 wires and and first connected it to the multimeter for checking the output. 
-####  After that i connected it to the DSO . As shown in the DSO i got DC as the output
-#### although DC was not pure, which means compared to the battery it was'nt direct. Check the next image now.
+####  After that i connected it to the DSO . As shown in the DSO i got DC as the output although DC was not pure, which means compared to the battery it was'nt direct. Check the next image now.
 👆                                                                   
 
 .                                                                    
