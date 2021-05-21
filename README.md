@@ -38,11 +38,9 @@
  
   ![IMG-20210308-WA0020](https://user-images.githubusercontent.com/79529647/119103269-d05c2280-b9cf-11eb-9f16-59a5454cdaab.jpg)
 
- #### Now i added a Capacitor in the connection which is connected parallel to the resistor(i have'nt shown the capacitor in the schematic so, capacitor 
-  #### is connected parallel to the resistane or load and its value is - 1000uf,45v)
+ #### Now i added a Capacitor in the connection which is connected parallel to the resistor(i have'nt shown the capacitor in the schematic so, capacitor is connected parallel to the resistane or load and its value is - 1000uf,45v)
  #### Now if we check our DSO we could se we are getting pulsatic output, which means the output is almost pure.
- #### How this happened, Capacitor's nature is to charge and discharge so as capacitor gets the input it charges but during discharging being of high value(1000uf)
- #### it takes miniseconds to discharge and starts charging again. This is why the curve in the DSO is approx straight but not full straight because of the time spent in discharging.
+ #### How this happened, Capacitor's nature is to charge and discharge so as capacitor gets the input it charges but during discharging being of high value(1000uf)it takes miniseconds to discharge and starts charging again. This is why the curve in the DSO is approx straight but not full straight because of the time spent in discharging.
 
   
    👆   
