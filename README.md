@@ -15,7 +15,7 @@
    👇  
                                   ![IMG-20210308-WA0016](https://user-images.githubusercontent.com/79529647/119098730-fe8b3380-b9ca-11eb-9f58-70f6b69604f7.jpg)   
                                
-   #### Now in this image we could see the actuall connection. The transformer is of 6v and 500ma (6-0-6v). 
+   #### Now in this image we could see the actual connection. The transformer is of 6v and 500ma (6-0-6v). 
    #### Transformer is connected so that we could step down the voltage coming from the main supply, the output of transformer will be 6v.
    #### Transformer passes the voltage to the diode so that it converts AC to DC. Then comes the resistor or load  for the output.
    
