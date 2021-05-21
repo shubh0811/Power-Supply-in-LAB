@@ -1,7 +1,7 @@
 # Power-Supply-in-LAB
 
-##### Hi,
- ##### Shubh this side, I am here to give a bit of description about the project  that i made.
+#### Hi,
+ #### Shubh this side, I am here to give a bit of description about the project  that i made.
  
    👇  
  ![Power supply schematic](https://user-images.githubusercontent.com/79529647/119097876-157d5600-b9ca-11eb-91e4-b16aee57d14e.jpg)
